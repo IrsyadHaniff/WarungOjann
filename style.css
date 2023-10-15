@@ -314,6 +314,7 @@ body {
 
 .products .product-image img {
   height: 25rem;
+  width: 200px;
 }
 
 .products .product-content h3 {
